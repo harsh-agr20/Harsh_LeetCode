@@ -1,4 +1,4 @@
-//
+//Check if Array Is Sorted and Rotated
 class Solution {
 public:
     bool check(vector<int>& nums) {
