@@ -1,4 +1,4 @@
-//single no.
+//single nUmber.
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
